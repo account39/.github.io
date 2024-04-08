@@ -1,0 +1,21 @@
+body{
+    background-color: cadetblue;
+    border: solid red 3px;
+    border-radius: 50px;
+    text-align: center;
+    margin: 0 50px 0 50px;
+}
+h1{
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    font-style: normal;
+    background-color: gold;
+    border: solid  rgb(86, 86, 60);
+    margin: o 50px 0 50px;
+}
+button{
+    font-size: medium;
+    font-style: italic;
+    background-color: blueviolet;
+}
